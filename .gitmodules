@@ -13,3 +13,6 @@
 [submodule "doom/src/main/jni/openal-soft"]
 	path = doom/src/main/jni/openal-soft
 	url = https://github.com/kcat/openal-soft
+[submodule "doom/src/main/jni/--force"]
+	path = doom/src/main/jni/--force
+	url = https://github.com/kcat/openal-soft
